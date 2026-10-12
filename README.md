@@ -1,5 +1,5 @@
 ### MusiciansTouchingGrass
-
+Generative AI and Music Final Project: Sonification of nature data with layered nature sounds. 
 
 #### Temperature Data Reference 
 
