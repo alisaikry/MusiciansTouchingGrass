@@ -1,4 +1,6 @@
-#https://github.com/danilobellini/audiolazy/blob/master/audiolazy/lazy_midi.py
+# This code was developed by Danilo Bellini and is used to convert between string MIDI notes in our project
+# The code was obtained in the following repository: 
+# https://github.com/danilobellini/audiolazy/blob/master/audiolazy/lazy_midi.py
 
 import itertools as it
 from math import log2, isinf, isnan

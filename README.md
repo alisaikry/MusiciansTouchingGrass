@@ -1,5 +1,5 @@
 # Generative AI and Music Final Project: A Musical Sonification of Dutch Temperature Data Through a Multi-layer Forest Soundscape.
-To hear our final musical piece rerun the code in the notebook called final_project.ipynb
+To hear our final musical piece rerun the code in the notebook called **final_project.ipynb**
 
 #### Temperature Data Reference 
 scripturl01 :: http://climexp.knmi.nl/getindices.cgi?STATION=CNT&TYPE=t&WMO=KNMIData/cnt_v11&id=someone@somewhere
@@ -9,5 +9,3 @@ institution :: KNMI
 contact :: schrier@knmi.nl
 source_url :: http://climexp.knmi.nl/getindices.cgi?KNMIData/cnt_v11
 version :: 1.1
-
-
